@@ -38,7 +38,7 @@ Ferramentas utilizadas nesse projeto:
     $ npm install
 
     # De um start na aplicação
-    $ expo start
+    $ npm start
 ```
 ---
 
