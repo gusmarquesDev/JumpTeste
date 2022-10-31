@@ -4,7 +4,7 @@
    
 ## 💬️ Sobre o projeto
 
-O <b>Jumo Test</b> é um aplicativo para avaliar o desempenho na elaboração de aplicativos para a plataforma Android, utilizando o framework React Native.
+O <b>Jumo Test</b> é um aplicativo para avaliar o desempenho na elaboração de aplicativos utilizando o framework React Native.
 
 ## 🚀 Tecnologias e libs
 
